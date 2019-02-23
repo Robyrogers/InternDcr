@@ -1,0 +1,3 @@
+rootProject.name = 'InternDcr'
+
+include ':app'
